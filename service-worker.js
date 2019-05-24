@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thepetpooja/precache-manifest.151a049947d726dd25fb295686ab9710.js"
+  "/thepetpooja/precache-manifest.67a3ee3407c3feee5e1d1810904d1f8e.js"
 );
 
 self.addEventListener('message', (event) => {
