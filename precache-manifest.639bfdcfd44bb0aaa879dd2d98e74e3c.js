@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d9625454cff70d4a0657b3b82869e1f",
+    "revision": "509f7b46c966b68851503f03a1e4071b",
     "url": "/thepetpooja/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thepetpooja/static/css/2.75aa2f03.chunk.css"
   },
   {
-    "revision": "a629fd04bce9da1d31a4",
+    "revision": "99a2bfe22c24342526ac",
     "url": "/thepetpooja/static/css/main.e23fee82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thepetpooja/static/js/2.73443069.chunk.js"
   },
   {
-    "revision": "a629fd04bce9da1d31a4",
-    "url": "/thepetpooja/static/js/main.71ccfe03.chunk.js"
+    "revision": "99a2bfe22c24342526ac",
+    "url": "/thepetpooja/static/js/main.475c8334.chunk.js"
   },
   {
     "revision": "21c40f4701753b96e9eb",
