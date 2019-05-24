@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/petpooja/static/css/main.e23fee82.chunk.css",
-    "main.js": "/petpooja/static/js/main.b1c55305.chunk.js",
-    "main.js.map": "/petpooja/static/js/main.b1c55305.chunk.js.map",
-    "runtime~main.js": "/petpooja/static/js/runtime~main.6a7b201e.js",
-    "runtime~main.js.map": "/petpooja/static/js/runtime~main.6a7b201e.js.map",
-    "static/css/2.75aa2f03.chunk.css": "/petpooja/static/css/2.75aa2f03.chunk.css",
-    "static/js/2.d49bd067.chunk.js": "/petpooja/static/js/2.d49bd067.chunk.js",
-    "static/js/2.d49bd067.chunk.js.map": "/petpooja/static/js/2.d49bd067.chunk.js.map",
-    "index.html": "/petpooja/index.html",
-    "precache-manifest.4101d679d1e726dfade4f28adcfcb17b.js": "/petpooja/precache-manifest.4101d679d1e726dfade4f28adcfcb17b.js",
-    "service-worker.js": "/petpooja/service-worker.js",
-    "static/css/2.75aa2f03.chunk.css.map": "/petpooja/static/css/2.75aa2f03.chunk.css.map",
-    "static/css/main.e23fee82.chunk.css.map": "/petpooja/static/css/main.e23fee82.chunk.css.map"
+    "main.css": "/thepetpooja/static/css/main.e23fee82.chunk.css",
+    "main.js": "/thepetpooja/static/js/main.b1c55305.chunk.js",
+    "main.js.map": "/thepetpooja/static/js/main.b1c55305.chunk.js.map",
+    "runtime~main.js": "/thepetpooja/static/js/runtime~main.be9c5533.js",
+    "runtime~main.js.map": "/thepetpooja/static/js/runtime~main.be9c5533.js.map",
+    "static/css/2.75aa2f03.chunk.css": "/thepetpooja/static/css/2.75aa2f03.chunk.css",
+    "static/js/2.73443069.chunk.js": "/thepetpooja/static/js/2.73443069.chunk.js",
+    "static/js/2.73443069.chunk.js.map": "/thepetpooja/static/js/2.73443069.chunk.js.map",
+    "index.html": "/thepetpooja/index.html",
+    "precache-manifest.16e0e8a60b05d6fbdbd26512b7fee2ff.js": "/thepetpooja/precache-manifest.16e0e8a60b05d6fbdbd26512b7fee2ff.js",
+    "service-worker.js": "/thepetpooja/service-worker.js",
+    "static/css/2.75aa2f03.chunk.css.map": "/thepetpooja/static/css/2.75aa2f03.chunk.css.map",
+    "static/css/main.e23fee82.chunk.css.map": "/thepetpooja/static/css/main.e23fee82.chunk.css.map"
   }
 }
