@@ -1,0 +1,71 @@
+const FoodItems = {
+
+  FavouriteItemsList: {
+    Item0:'Kaju Curry',
+    Item1: 'Alu 3',
+    Item2: 'Arancino',
+    Item3: 'Brocoli Almound Soup',
+    Item4: 'Cheese Balls',
+    Item5: 'Cheese Pocket',
+    Item6: 'Chinese Sigar',
+    Item7: 'Chocolate ice Creams',
+    Item8: 'Cold Drinks',
+    Item9: 'Cheese Maringo',
+    Item10: 'Healthy Indian Combo',
+    Item11: 'Kanchi Cottage Cheese Dry',
+    Item12: 'Make Your Own Pizza',
+    Item13: 'Margerita Pizza',
+    Item14: 'Mexican Saute',
+    Item15: 'Paneer And Manchurian Dry',
+    Item16: 'Paneer Chilly Dry',
+    Item17: 'Patana Paneer Ke Tikke',
+    Item18: 'Rava Masala Dosa',
+    Item19: 'Royal Indian Combo',
+    Item20: 'The Ultimate Pizza ',
+    Item21: 'Tomato Soup',
+    Item22: 'Veg Biryani',
+    Item23: 'Manchurian Dry',
+    Item24: 'Veg Almond Salad',
+  },
+  dataSource :  [{
+    key: '0',
+    itemName: 'Kaju Curry',
+    price: '220',
+    quantity: '0',
+  }, {
+    key: '1',
+    itemName: 'Rotis',
+    price: '30',
+    quantity: '5',
+  }],
+    dataSource2:  [{
+      key: '0',
+      itemName: 'Kaju Curry',
+      price: '220',
+      quantity: '10',
+    }, {
+      key: '1',
+      itemName: 'Rotis',
+      price: '30',
+      quantity: '15',
+    }],
+      dataSource3 : [{
+        key: '0',
+        itemName: 'Kaju Curry',
+        price: '220',
+        quantity: '20',
+      }, {
+        key: '1',
+        itemName: 'Rotis',
+        price: '30',
+        quantity: '25',
+      }],
+  dataSourceNull :  [{
+    key: '0',
+    itemName: '',
+    price: '',
+    quantity: '0',
+  }],
+};
+
+export default FoodItems;
